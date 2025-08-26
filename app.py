@@ -24,7 +24,7 @@ st.markdown(
     f"""
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <div>
-            <h1>🤖 SANDRA MAE P. DELFINO - Agricultural Products Price and Demand Prediction for Small-Scale Famers in Partido, Camarines Sur</h1>
+            <h1>🤖 SANDRA MAE P. DELFINO - Agricultural Products Price and Demand Prediction for Small-Scale Farmers in Partido, Camarines Sur</h1>
         </div>
         <div style="text-align: right;">
             <p>{current_time}</p>
